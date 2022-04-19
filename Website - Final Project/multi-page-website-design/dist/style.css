@@ -60,7 +60,9 @@ header ul li.current {
   padding-top: 20px;
 }
 #slides .slide0 {
-  background: #FF3709;
+  background: #FF3709 url(R.png)  fixed bottom  no-repeat;
+  background-size: 20%;
+  background-position: 50% 20%;
   position: relative;
 }
 #slides .slide0 #title {
@@ -85,7 +87,9 @@ header ul li.current {
 }
 #slides .slide1 {
   display: none;
-  background-color: #00ADD5;
+  background: #00ADD5 url(start.png) fixed bottom no-repeat;
+  background-size: 60%;
+  background-postiton: 50% 30%;
 }
 #slides .slide1 p {
   padding: 20px;
