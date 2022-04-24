@@ -62,7 +62,9 @@ header ul li.current {
   padding-top: 20px;
 }
 #slides .slide0 {
-  background: #252422;
+  background: #252422 url(R.png)  bottom no-repeat;
+  background-size: 20%;
+  background-position: 50% 10%;
   position: relative;
 }
 #slides .slide0 #title {
