@@ -148,6 +148,8 @@ header ul li.current {
 
 #people li{
   font-weight: bolder;
+  text-align: center;
+  text-shadow: 10px;
   border-radius: 5px;
 }
 
