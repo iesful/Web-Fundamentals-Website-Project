@@ -89,9 +89,8 @@ header ul li.current {
 }
 #slides .slide1 {
   display: none;
-  background:#403d39 url(StartB.png) fixed bottom no-repeat;
-  background-size: 30%;
-  background-position: 50% 80%;
+  background:#403d39 
+  
 }
 #slides .slide1 p {
   padding: 20px;
