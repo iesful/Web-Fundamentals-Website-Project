@@ -146,6 +146,11 @@ header ul li.current {
   background-color: rgba(201, 201, 201, 0.1);
 }
 
+#people li{
+  font-weight: bolder;
+  border-radius: 5px;
+}
+
 footer {
   height: 50px;
   width: 100%;
