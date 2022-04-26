@@ -206,16 +206,15 @@ background-color:rgb(66, 51, 51);
 .right-column {
 float:right;
 width:30%;
-background-color:rgb(131, 37, 9);
+background-color:rgb(43, 43, 138);
 }
 
 .center-column {
 margin:auto;
 width:30%;
-background-color:rgb(43, 43, 138);
+background-color:rgb(131, 37, 9);
 }
 
 .bottom {
-  position: relative;
   margin: auto;
 }
