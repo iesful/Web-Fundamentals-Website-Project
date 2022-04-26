@@ -196,25 +196,26 @@ body {
   max-width: 350px;
   margin: 5rem auto;
 }
-.left-column
-{
+
+.left-column {
 float:left;
 width:30%;
-background-color:red;
-}
-.right-column
-{
-float:right;
-width:30%;
-background-color:green;
-}
-.center-column
-{
-margin:auto;
-width:30%;
-background-color:blue;
+background-color:rgb(66, 51, 51);
 }
 
-.thank-you{
-  color: black;
+.right-column {
+float:right;
+width:30%;
+background-color:rgb(131, 37, 9);
+}
+
+.center-column {
+margin:auto;
+width:30%;
+background-color:rgb(43, 43, 138);
+}
+
+.bottom {
+  position: relative;
+  margin: auto;
 }
