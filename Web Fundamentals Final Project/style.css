@@ -159,5 +159,58 @@ footer {
   text-align: center;
   text-shadow: 10px;
   font-family: "open sans";
-  line-height: 48px;
+  line-height: 51px;
+}
+.author-bio {
+  background-color: white;
+  border: 1px solid hsl(0,0%,85%);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+.author-bio__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.author-bio__content {
+  padding: 1rem;
+}
+.author-bio__name {
+  font-size: 1.25rem;
+  color: rgba(0,0,0,0.8);
+}
+.author-bio__body {
+  font-size: 1rem;
+  color: rgba(0,0,0,0.75);
+  line-height: 1.5;
+}
+
+
+
+body {  
+  background-color: #eee;
+}
+
+.container {
+  max-width: 350px;
+  margin: 5rem auto;
+}
+.left-column
+{
+float:left;
+width:30%;
+background-color:red;
+}
+.right-column
+{
+float:right;
+width:30%;
+background-color:green;
+}
+.center-column
+{
+margin:auto;
+width:30%;
+background-color:blue;
 }
